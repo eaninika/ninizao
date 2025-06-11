@@ -1,12 +1,9 @@
-body{
-    margin: 0;
-    padding: 0;
-    background-color: #F5F0E9 ;
+.Orochi {
+    padding: 20px 30px;
 }
-h1, h2 {
-    padding-left: 10px 15px 20px 25px;
-    font-family: "Delicious Handrawn", sans-serif;
-    font-size: 50px;
-    color: #112250;
-    padding: 10px;
+
+.Orochi__sobre {
+    
 }
+
+    
